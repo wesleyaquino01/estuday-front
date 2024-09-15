@@ -33,3 +33,8 @@ Generate environments
 Generate Browser List
 
     ng generate config browserslist
+
+
+Padrão dos Commits
+
+https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/#resumo
